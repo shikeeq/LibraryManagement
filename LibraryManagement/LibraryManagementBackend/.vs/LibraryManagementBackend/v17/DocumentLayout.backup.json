@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\librarymanagementbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\librarymanagementbackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\librarymanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\librarymanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89689784-413D-4BD1-9910-5A6E6E6D2AAD}|LibraryManagementBackend\\LibraryManagementBackend.csproj|solutionrelative:librarymanagementbackend\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagementBackend",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "RelativeToolTip": "LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T15:32:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\appsettings.json",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T15:08:29.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryManagementBackend.csproj",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "RelativeToolTip": "LibraryManagementBackend\\LibraryManagementBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T14:52:07.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BorrowRepository.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\BorrowRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\BorrowRepository.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\BorrowRepository.cs",
+              "RelativeToolTip": "LibraryManagementBackend\\BorrowRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:28:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Borrow.cs",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\Borrow.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Borrow.cs",
+              "RelativeToolTip": "LibraryManagementBackend\\Borrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:27:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\CardRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\CardRepository.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\CardRepository.cs",
+              "RelativeToolTip": "LibraryManagementBackend\\CardRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:26:54.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Card.cs",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\Card.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Card.cs",
+              "RelativeToolTip": "LibraryManagementBackend\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:26:08.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\BookRepository.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManagementBackend\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:23:31.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\Book.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Book.cs",
+              "RelativeToolTip": "LibraryManagementBackend\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:22:53.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementBackend\\Program.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Program.cs",
+              "RelativeToolTip": "LibraryManagementBackend\\Program.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAYwDMBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:15:50.941Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

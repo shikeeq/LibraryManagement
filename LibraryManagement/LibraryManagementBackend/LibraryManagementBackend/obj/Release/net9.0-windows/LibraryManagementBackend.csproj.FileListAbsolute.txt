@@ -1,0 +1,13 @@
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\bin\Release\net9.0-windows\appsettings.json
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\bin\Release\net9.0-windows\LibraryManagementBackend.deps.json
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\bin\Release\net9.0-windows\LibraryManagementBackend.dll
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\bin\Release\net9.0-windows\LibraryManagementBackend.pdb
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\LibraryManagementBackend.csproj.AssemblyReference.cache
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\LibraryManagementBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\LibraryManagementBackend.AssemblyInfoInputs.cache
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\LibraryManagementBackend.AssemblyInfo.cs
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\LibraryManagementBackend.csproj.CoreCompileInputs.cache
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\LibraryManagementBackend.dll
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\refint\LibraryManagementBackend.dll
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\LibraryManagementBackend.pdb
+D:\Study\DB\实验5\LibraryManagementBackend\LibraryManagementBackend\obj\Release\net9.0-windows\ref\LibraryManagementBackend.dll

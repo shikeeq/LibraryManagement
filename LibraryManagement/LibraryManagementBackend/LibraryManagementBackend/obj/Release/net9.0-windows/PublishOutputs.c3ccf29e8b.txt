@@ -1,0 +1,17 @@
+D:\Study\DB\实验5\LibraryManagementBackendPublish\LibraryManagementBackend.exe
+D:\Study\DB\实验5\LibraryManagementBackendPublish\appsettings.json
+D:\Study\DB\实验5\LibraryManagementBackendPublish\LibraryManagementBackend.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\LibraryManagementBackend.deps.json
+D:\Study\DB\实验5\LibraryManagementBackendPublish\LibraryManagementBackend.runtimeconfig.json
+D:\Study\DB\实验5\LibraryManagementBackendPublish\LibraryManagementBackend.pdb
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.Configuration.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.Configuration.Json.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\Microsoft.Extensions.Primitives.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\System.Data.Odbc.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\runtimes\unix\lib\net9.0\System.Data.Odbc.dll
+D:\Study\DB\实验5\LibraryManagementBackendPublish\runtimes\win\lib\net9.0\System.Data.Odbc.dll

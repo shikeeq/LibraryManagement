@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{977C8189-B767-5B9A-A2DF-88255F8EC280}|..\\LibraryManagementFrontend\\LibraryManagementFrontend\\LibraryManagementFrontend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementfrontend\\librarymanagementfrontend\\bookmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977C8189-B767-5B9A-A2DF-88255F8EC280}|..\\LibraryManagementFrontend\\LibraryManagementFrontend\\LibraryManagementFrontend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementfrontend\\librarymanagementfrontend\\bookmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977C8189-B767-5B9A-A2DF-88255F8EC280}|..\\LibraryManagementFrontend\\LibraryManagementFrontend\\LibraryManagementFrontend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementfrontend\\librarymanagementfrontend\\bookmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55891F-8C77-AE76-9795-0DEF90396D30}|..\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C55891F-8C77-AE76-9795-0DEF90396D30}|..\\LibraryManagementBackend\\LibraryManagementBackend\\LibraryManagementBackend.csproj|d:\\study\\db\\\u5B9E\u9A8C5\\librarymanagementbackend\\librarymanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.Designer.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.Designer.cs",
+              "RelativeToolTip": "..\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:10:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagementForm.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs",
+              "RelativeToolTip": "..\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAgwLgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:56:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs [Design]",
+              "RelativeToolTip": "..\\LibraryManagementFrontend\\LibraryManagementFrontend\\BookManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:56:34.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementBackend\\LibraryManagementBackend\\BookRepository.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\BookRepository.cs",
+              "RelativeToolTip": "..\\LibraryManagementBackend\\LibraryManagementBackend\\BookRepository.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAYwBQBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:37:18.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagementBackend\\LibraryManagementBackend\\Program.cs",
+              "ToolTip": "D:\\Study\\DB\\\u5B9E\u9A8C5\\LibraryManagementBackend\\LibraryManagementBackend\\Program.cs",
+              "RelativeToolTip": "..\\LibraryManagementBackend\\LibraryManagementBackend\\Program.cs",
+              "ViewState": "AgIAALUBAAAAAAAAAAAswCkBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:18:21.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\appsettings.json
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\LibraryManagementBackend.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\LibraryManagementBackend.deps.json
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\LibraryManagementBackend.pdb
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.Configuration.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\Microsoft.Extensions.Primitives.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\publish\System.Data.Odbc.dll

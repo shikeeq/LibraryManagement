@@ -1,0 +1,13 @@
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\appsettings.json
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\LibraryManagementBackend.deps.json
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\LibraryManagementBackend.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\bin\Debug\net9.0-windows\win-x64\LibraryManagementBackend.pdb
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\LibraryManagementBackend.csproj.AssemblyReference.cache
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\LibraryManagementBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\LibraryManagementBackend.AssemblyInfoInputs.cache
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\LibraryManagementBackend.AssemblyInfo.cs
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\LibraryManagementBackend.csproj.CoreCompileInputs.cache
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\LibraryManagementBackend.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\refint\LibraryManagementBackend.dll
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\LibraryManagementBackend.pdb
+D:\Desktop\DB\LibraryManagement\LibraryManagementBackend\LibraryManagementBackend\obj\Debug\net9.0-windows\win-x64\ref\LibraryManagementBackend.dll
